@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+```math
+\ce{$&#x5C;unicode[pointer-events: none; z-index: -20; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://avatars.githubusercontent.com/u/148613558?v=4');]{x0000}$}
+```
+
 <!--
 **wowgoodduck/wowgoodduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
